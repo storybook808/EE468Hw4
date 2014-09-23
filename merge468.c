@@ -35,7 +35,7 @@
 #include <unistd.h>
 
 //private definitions
-#define N 	   16
+#define N 	       16
 #define THREAD_MAX 50
 //private structures
 typedef struct
