@@ -1,3 +1,10 @@
+// file: merge468.c
+// name: Steven Chen
+// date: 09.22.2014
+// mod : 09.23.2014
+
+// Compile with "cc merge468.c -lpthread" for it to work.
+
 /* 
  * This is an implementation of merge sort assuming the
  * data is an array a[] of length N, and N is a power of 2.
